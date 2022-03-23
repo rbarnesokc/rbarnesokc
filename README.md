@@ -33,24 +33,13 @@ I am looking for a good team that I can learn from and contribute to on this jou
 <br />
 
 ### Connect with me:
+<a href="https://rbarnesokc.github.io/" class="website">
+<img align="left" alt="website" width="26px" src="https://www.vecteezy.com/vector-art/357012-vector-globe-icon" style="padding-right:10px;" /></a>
+
+<a href="https://www.linkedin.com/in/ryan-barnes-okc/" class="linkedin">
+<img align="left" alt="linkedin" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/linkedin/linkedin-original.svg" style="padding-right:10px;" /></a>
+
 <a href="https://twitter.com/ryanbarnes_okc" class="twitter">
-<img align="left" alt="twitter" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/twitter/twitter-original.svg" style="padding-right:10px;" /></a>
+<img align="left" alt="twitter" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/twitter/twitter-original.svg" /></a>
 
-&nbsp;&nbsp;
-[![twitter](./img/twitter-light.svg)](https://twitter.com/codestackr#gh-light-mode-only)
-
-&nbsp;&nbsp;
-[![linkedin](./img/linkedin-light.svg)](https://linkedin.com/in/codeSTACKr#gh-light-mode-only)
-
-
-
-<br />
-<br />
-
----
-
-
-[website]: https://rbarnesokc.github.io/
-[twitter]: https://twitter.com/ryanbarnes_okc
-[linkedin]: https://www.linkedin.com/in/ryan-barnes-okc/
 
