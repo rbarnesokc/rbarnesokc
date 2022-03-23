@@ -24,6 +24,7 @@ I am looking for a good team that I can learn from and contribute to on this jou
 <img align="left" alt="AWS" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
 
 <br />
+
 ### Currently Studying:
 
 <img align="left" alt="React" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/react/react-original.svg" style="padding-right:10px;" />
