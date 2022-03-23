@@ -1,4 +1,4 @@
-# Hi, my name is Ryan Barnes. 👋 
+# Hi, my name is Ryan Barnes. ![icons8-hello-48](https://user-images.githubusercontent.com/98102311/159750403-e1dcb4ae-81b9-44cf-a3e3-ed2734cc162a.png)
 
 
 I am a front end software developer with a focus toward responsive, accessible and efficient design. I am an analytical thinker who likes to know how and why things work the way that they do. The tech resources and community are such a blessing and I am looking forward to becoming a contributing part of the tech community in the near future.
