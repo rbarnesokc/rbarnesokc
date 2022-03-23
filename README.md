@@ -3,12 +3,14 @@
 
 ## A little bit about me
 
-Personal
+#### Personal
+<br />
 I was born and raised in Oklahoma City where I am still proud to call my home. I married my beautiful wife in 2010 and we welcomed our son to our family in 2017.
 
 I enjoy traveling, cooking/baking, sports (basketball and football mostly), exercising, and spending time with family and friends. You can usually find us in the mountains taking in the cool air or road-tripping to see where the road takes us.
 
-Professional
+#### Professional
+<br />
 I am a front end software developer with a focus toward responsive, accessible and efficient design. I am an analytical thinker who likes to know how and why things work the way that they do. The tech resources and community are such a blessing and I am looking forward to becoming a contributing part of the tech community in the near future.
 
 Before becoming a developer I had spent the better part of the last 13 years in the transportation sector. In 2021 I felt like my career had reached a stalemate and I decided that it was time for a change. After a brief stint as an insurance agent I quickly realized that a sales role was not the long term role that I was pursuing.
@@ -24,7 +26,7 @@ I am looking for a good team that I can learn from and contribute to on this jou
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other developers
 - 🥅 2022 Goals: Become employed as a developer and contribute to the community
-- ⚡ Fun fact: I love to draw and play guitar / drums
+
 
 <br />
 <br />
