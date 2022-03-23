@@ -34,10 +34,10 @@ I am looking for a good team that I can learn from and contribute to on this jou
 
 ### Connect with me:
 <a href="https://rbarnesokc.github.io/" class="website">
-<img align="left" alt="website" width="26px" src="https://www.vecteezy.com/vector-art/357012-vector-globe-icon" style="padding-right:10px;" /></a>
+<img align="left" alt="website" width="26px" src="https://img.icons8.com/external-rabit-jes-outline-color-rabit-jes/62/000000/external-world-navigation-and-maps-rabit-jes-outline-color-rabit-jes.png" style="padding-right:10px;" /></a>
 
 <a href="https://www.linkedin.com/in/ryan-barnes-okc/" class="linkedin">
-<img align="left" alt="linkedin" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/linkedin/linkedin-original.svg" style="padding-right:10px;" /></a>
+<img align="left" alt="linkedin" width="26px" src="https://img.icons8.com/external-justicon-lineal-color-justicon/64/000000/external-linkedin-social-media-justicon-lineal-color-justicon.png" style="padding-right:10px;" /></a>
 
 <a href="https://twitter.com/ryanbarnes_okc" class="twitter">
 <img align="left" alt="twitter" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/twitter/twitter-original.svg" /></a>
