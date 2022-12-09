@@ -1,25 +1,31 @@
 # Hi, my name is Ryan Barnes. ![icons8-hello-48](https://user-images.githubusercontent.com/98102311/159750403-e1dcb4ae-81b9-44cf-a3e3-ed2734cc162a.png)
 
 
-I am a front end software developer with a focus toward responsive, accessible and efficient design. I am an analytical thinker who likes to know how and why things work the way that they do. The tech resources and community are such a blessing and I am looking forward to becoming a contributing part of the tech community in the near future.
+I am a software developer with a focus toward responsive, accessible and efficient design. I enjoy problem solving, exploring ways to make things more effecient and understanding how and why things work the way that they do. 
 
-Before becoming a developer I had spent the better part of the last 13 years in the transportation sector. In 2021 I felt like my career had reached a stalemate and I decided that it was time for a change. After a brief stint as an insurance agent I quickly realized that a sales role was not the long term role that I was pursuing.
+After 13 years in the transportation sector I decided that it was time for a change. So, in December 2021 I started taking some online web development courses and really enjoyed watching things come to life. I dove in a little deeper by signing up for more interactive courses and participating in local tech events to help me build a better learning foundation. The tech resources and community have been such a blessing and I enjoy being a contributing member of such a wonderful community. 
 
-In December 2021 I started taking some online web development courses and really enjoyed watching things come to life. I dove in a little deeper by signing up for courses through Treehouse to become a full stack developer and I am currently working my way through those modules.
+In May 2022 I was honored to accept my first software engineer position with Payitoff. They have been wonderful at spending time with me and helping me continue my learning journey. They have really helped me understand things that I would not have ever gotten in an online course or bootcamp. I spend a lot of time pair programming, debugging, testing, and doing anything that I can to help make our work days more seamless.
 
-I am looking for a good team that I can learn from and contribute to on this journey. Thanks for checking out my page!
+Thanks for checking out my page!
 
 <br />
 
-### Languages and Tools:
+### Languages:
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/vscode/vscode-original-wordmark.svg" style="padding-right:10px;" />
 <img align="left" alt="HTML5" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/html5/html5-original.svg" style="padding-right:10px;" />
 <img align="left" alt="CSS3" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/css3/css3-original.svg" style="padding-right:10px;" />
 <img align="left" alt="bootstrap" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/bootstrap/bootstrap-original.svg" style="padding-right:10px;" />
 <img align="left" alt="tailwind" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/tailwindcss/tailwindcss-plain.svg" style="padding-right:10px;" />
 <img align="left" alt="JavaScript" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Node.js" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Elixir" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/elixir/elixir-original.svg" />
+
+<br />
+
+### Tools:
+
+<img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/vscode/vscode-original-wordmark.svg" style="padding-right:10px;" />
+<img align="left" alt="Figma" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/figma/figma-original.svg" style="padding-right:10px;" />
 <img align="left" alt="GitHub" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/github/github-original.svg" style="padding-right:10px;" />
 <img align="left" alt="AWS" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
 
@@ -27,9 +33,10 @@ I am looking for a good team that I can learn from and contribute to on this jou
 
 ### Currently Studying:
 
-<img align="left" alt="React" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/react/react-original.svg" style="padding-right:10px;" />
-<img align="left" alt="MongoDB" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" />
-<img align="left" alt="MySQL" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/mysql/mysql-original.svg" />
+<img align="left" alt="Docker" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/docker/docker-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Node.js" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Phoenix" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/phoenix/phoenix-original.svg" />
+<img align="left" alt="Postgres" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/postgresql/postgresql-original.svg" />
 
 <br />
 
